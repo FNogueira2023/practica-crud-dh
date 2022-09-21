@@ -21,5 +21,5 @@ app.use("/", mainRouter);
 app.use("/products", productRouter);
 
 app.listen(4500, () => {
-  console.log("Servidor arriba en el puerto 3000");
+  console.log("Servidor arriba en el puerto 45000");
 });
